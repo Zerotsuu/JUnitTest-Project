@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ShoppingCart {
-//    testing commit number 2
+//    testing commit number 3
     private List<Product> products;
 
     public ShoppingCart() {
